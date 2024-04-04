@@ -1,0 +1,33 @@
+{
+  "squadName": "Laurea Fullstack Squad",
+  "homeTown": "Vantaa",
+  "formed": 2024,
+  "secretBase": "Tikkurila Kampus",
+  "active": true,
+  "members": [
+    {
+      "name": "Koodari Mikko",
+      "age": 29,
+      "secretIdentity": "Mikko the Coder",
+      "powers": ["MongoDB", "React", "Express"]
+    },
+    {
+      "name": "Tietoilija Nelli",
+      "age": 39,
+      "secretIdentity": "Nelli the Informer",
+      "powers": ["Node", "Debugging", "Mongoose"]
+    },
+    {
+      "name": "Testaaja Miska ",
+      "age": 1000000,
+      "secretIdentity": "Miska the Tester",
+      "powers": [
+        "Kuolematon",
+        "Paineen sietokyky",
+        "Kestävyys",
+        "Teleporttaus",
+        "Ulottuvuuden muokkaus"
+      ]
+    }
+  ]
+}
